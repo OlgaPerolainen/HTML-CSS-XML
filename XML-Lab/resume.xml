@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+    <candidate id='a'>
+        <name>Елена</name>
+        <lastname>Иванова</lastname>
+        <fathersname>Васильевна</fathersname>
+        <age>31</age>
+        <workplace>OOO "Проект"</workplace>
+        <post>менеджер</post>
+        <dateOfBirth>10.08.1990</dateOfBirth>
+        <education>Высшее</education>
+        <address>СПб, Московский проспект, д.183</address>
+        <phone>123-45-67</phone>
+        <familystatus>замужем</familystatus>
+        <desiredSalary currency='RUR'>50000</desiredSalary>
+    </candidate>
+
+    <candidate id='b'>
+        <name>Виктор</name>
+        <lastname>Иванов</lastname>
+        <fathersname>Андреевич</fathersname>
+        <age>33</age>
+        <workplace>OOO "Проект"</workplace>
+        <post>экономист</post>
+        <dateOfBirth>15.01.1989</dateOfBirth>
+        <education>Высшее</education>
+        <address>СПб, Московский проспект, д.183</address>
+        <phone>123-45-68</phone>
+        <familystatus>женат</familystatus>
+        <desiredSalary currency='RUR'>60000</desiredSalary>
+    </candidate>
+    
+    <candidate id='c'>
+        <name>Людмила</name>
+        <lastname>Сидорова</lastname>
+        <fathersname>Валентиновна</fathersname>
+        <age>39</age>
+        <workplace>OOO "Строй"</workplace>
+        <post>менеджер по продажам</post>
+        <dateOfBirth>22.10.1982</dateOfBirth>
+        <education>Среднее</education>
+        <address>СПб, Ленинский проспект, д.109</address>
+        <phone>123-45-60</phone>
+        <familystatus>не замужем</familystatus>
+        <desiredSalary currency='RUR'>40000</desiredSalary>
+    </candidate>
+</resume>

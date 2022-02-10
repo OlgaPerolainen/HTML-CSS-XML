@@ -1,0 +1,116 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:TimeTable xmlns:myns="http://www.itmo.ru/xml/lessons" xmlns:info="https://data">
+	<myns:item id="a">
+		<myns:name>Технологии программрования</myns:name>
+		<myns:teacher>Смольянинов Антон Валентинович</myns:teacher>
+		<myns:begin>2021-10-06</myns:begin>
+		<myns:end>2021-11-19</myns:end>
+		<myns:description>Получение знаний и навыков, необходимых для дальнейшего обучения по направлениям специализаций</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/Программирование</info:literature>
+    </myns:item>
+    <myns:item id="b">
+		<myns:name>Введение в базы данных</myns:name>
+		<myns:teacher>Осетрова Ирина Станиславовна</myns:teacher>
+		<myns:begin>2021-10-20</myns:begin>
+		<myns:end>2021-10-29</myns:end>
+		<myns:description>Изучение основных понятий и возможностей баз данных</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/База_данных</info:literature>
+	</myns:item>
+    <myns:item id="c">
+		<myns:name>Программирование на C#</myns:name>
+		<myns:teacher>Осипов Никита Алексеевич</myns:teacher>
+		<myns:begin>2021-11-11</myns:begin>
+		<myns:end>2021-12-07</myns:end>
+		<myns:description>Изучение основ языка C#</myns:description>
+        <info:literature>"Язык программирования C# 7 и платформы .NET и .NET Core", Эндрю Троелсен, Филипп Джепикс</info:literature>
+	</myns:item>
+    <myns:item id="d">
+		<myns:name>Разработка Windows-приложений на C#</myns:name>
+		<myns:teacher>Осипов Никита Алексеевич</myns:teacher>
+		<myns:begin>2021-12-09</myns:begin>
+		<myns:end>2021-12-29</myns:end>
+		<myns:description>Получение углублённого представления о возможностях среды разработки .NET Framework для создания элементов управления, клиентских и серверных приложений, распределённых приложений Windows</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/Windows_Forms</info:literature>
+	</myns:item>
+    <myns:item id="e">
+ 	    <myns:name>Transact-SQL и разработка MSSS</myns:name>
+		<myns:teacher>Ямщиков Денис Викторович</myns:teacher>
+		<myns:begin>2022-01-10</myns:begin>
+		<myns:end>2022-01-31</myns:end>
+		<myns:description>Получение знаний и навыков, необходимых для внедрения базы данных Microsoft SQL Server</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/Transact-SQL</info:literature>
+    </myns:item>		
+    <myns:item id="f">
+		<myns:name>Основы технологий разметки (HTML, XML)</myns:name>
+		<myns:teacher>Кузьмин Константин Михайлович</myns:teacher>
+		<myns:begin>2022-02-03</myns:begin>
+		<myns:end>2022-02-08</myns:end>
+		<myns:description>Изучение основных возможностей визуальной разметки, а также принципов создания схем валидации и преобразования документов в различные форматы.</myns:description>
+        <info:literature>"HTML и CSS. Путь к совершенству", Хеник Б.</info:literature>
+	</myns:item>
+    <myns:item id="g">
+		<myns:name>Технология ADO.NET</myns:name>
+		<myns:teacher>Кузьмин Константин Михайлович</myns:teacher>
+		<myns:begin>2022-02-10</myns:begin>
+		<myns:end>2022-02-25</myns:end>
+		<myns:description>Изучение особенностей архитектуры ADO и XML</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/ADO.NET</info:literature>
+	</myns:item>
+    <myns:item id="h">
+		<myns:name>Разработка Web-приложений с использованием ASP.NET</myns:name>
+		<myns:teacher>Смольянинов Антон Валентинович</myns:teacher>
+		<myns:begin>2022-03-01</myns:begin>
+		<myns:end>2022-03-22</myns:end>
+		<myns:description>Изучение возможностей создания ASP.NET Web Forms</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/ASP.NET</info:literature>
+	</myns:item>
+    <myns:item id="i">
+ 	    <myns:name>Программирование на Python</myns:name>
+		<myns:teacher>Кузьмин Константин Михайлович</myns:teacher>
+		<myns:begin>2022-03-24</myns:begin>
+		<myns:end>2022-04-12</myns:end>
+		<myns:description>Изучение основ языка Python</myns:description>
+        <info:literature>"Изучаем Python", Лутц М.</info:literature>
+	</myns:item>
+    <myns:item id="j">
+		<myns:name>СУБД Oracle</myns:name>
+		<myns:teacher>Климанов В.А.</myns:teacher>
+		<myns:begin>2022-04-14</myns:begin>
+		<myns:end>2022-05-06</myns:end>
+		<myns:description>Изучение особенностей СУБД Oracle</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/Oracle</info:literature>
+	</myns:item> 
+    <myns:item id="k">
+		<myns:name>Программирование на Java</myns:name>
+		<myns:teacher>Романова Асель</myns:teacher>
+		<myns:begin>2022-05-11</myns:begin>
+		<myns:end>2022-06-24</myns:end>
+		<myns:description>Изучение основ языка Java</myns:description>
+         <info:literature>https://ru.wikipedia.org/wiki/Java</info:literature>
+ 	</myns:item> 
+    <myns:item id="l">
+ 	<myns:name>Разработка Web-приложений на HTML5, JavaScript, CSS3</myns:name>
+		<myns:teacher>Ямщиков Денис Викторович</myns:teacher>
+		<myns:begin>2022-06-27</myns:begin>
+		<myns:end>2022-07-15</myns:end>
+		<myns:description>Изучение принципов создания программных компонентов на базе HTML5/CSS3/JavaScript</myns:description>
+        <info:literature>https://ru.wikipedia.org/wiki/HTML5</info:literature>
+		<info:literature>https://ru.wikipedia.org/wiki/JavaScript</info:literature>
+		<info:literature>https://ru.wikipedia.org/wiki/CSS3</info:literature>
+ 	</myns:item> 
+    <myns:item id="m">
+        <myns:name>Программирование на С++</myns:name>
+		<myns:teacher>Осипов Никита Алексеевич</myns:teacher>
+		<myns:begin>2022-07-18</myns:begin>
+		<myns:end>2022-09-16</myns:end>
+		<myns:description>Изучение основ языка C++</myns:description>
+        <info:literature>"Объектно-ориентированное программирование в C++", Лафоре Р.</info:literature>
+ 	</myns:item> 
+    <myns:item id="n">
+		<myns:name>Дипломное проектирование</myns:name>
+		<myns:teacher>руководители дипломных работ</myns:teacher>
+		<myns:begin>2022-09-17</myns:begin>
+		<myns:end>2022-10-18</myns:end>
+		<myns:description>Работа над дипломным проектом</myns:description>
+ 	</myns:item> 
+</myns:TimeTable>

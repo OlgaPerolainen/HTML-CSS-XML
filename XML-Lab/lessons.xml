@@ -1,0 +1,101 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<TimeTable>
+	<item id="a">
+		<name>Технологии программрования</name>
+		<teacher>Смольянинов Антон Валентинович</teacher>
+		<begin>2021-10-06</begin>
+		<end>2021-11-19</end>
+		<description>Получение знаний и навыков, необходимых для дальнейшего обучения по направлениям специализаций</description>
+	</item>
+    <item id="b">
+		<name>Введение в базы данных</name>
+		<teacher>Осетрова Ирина Станиславовна</teacher>
+		<begin>2021-10-20</begin>
+		<end>2021-10-29</end>
+		<description>Изучение основных понятий и возможностей баз данных</description>
+	</item>
+    <item id="c">
+		<name>Программирование на C#</name>
+		<teacher>Осипов Никита Алексеевич</teacher>
+		<begin>2021-11-11</begin>
+		<end>2021-12-07</end>
+		<description>Изучение основ языка C#</description>
+	</item>
+    <item id="d">
+		<name>Разработка Windows-приложений на C#</name>
+		<teacher>Осипов Никита Алексеевич</teacher>
+		<begin>2021-12-09</begin>
+		<end>2021-12-29</end>
+		<description>Получение углублённого представления о возможностях среды разработки .NET Framework для создания элементов управления, клиентских и серверных приложений, распределённых приложений Windows</description>
+	</item>
+    <item id="e">
+ 	    <name>Transact-SQL и разработка MSSS</name>
+		<teacher>Ямщиков Денис Викторович</teacher>
+		<begin>2022-01-10</begin>
+		<end>2022-01-31</end>
+		<description>Получение знаний и навыков, необходимых для внедрения базы данных Microsoft SQL Server</description>
+    </item>		
+    <item id="f">
+		<name>Основы технологий разметки (HTML, XML)</name>
+		<teacher>Кузьмин Константин Михайлович</teacher>
+		<begin>2022-02-03</begin>
+		<end>2022-02-08</end>
+		<description>Изучение основных возможностей визуальной разметки, а также принципов создания схем валидации и преобразования документов в различные форматы.</description>
+	</item>
+    <item id="g">
+		<name>Технология ADO.NET</name>
+		<teacher>Кузьмин Константин Михайлович</teacher>
+		<begin>2022-02-10</begin>
+		<end>2022-02-25</end>
+		<description>Изучение особенностей архитектуры ADO и XML</description>
+	</item>
+    <item id="h">
+		<name>Разработка Web-приложений с использованием ASP.NET</name>
+		<teacher>Смольянинов Антон Валентинович</teacher>
+		<begin>2022-03-01</begin>
+		<end>2022-03-22</end>
+		<description>Изучение возможностей создания ASP.NET Web Forms</description>
+	</item>
+    <item id="i">
+ 	    <name>Программирование на Python</name>
+		<teacher>Кузьмин Константин Михайлович</teacher>
+		<begin>2022-03-24</begin>
+		<end>2022-04-12</end>
+		<description>Изучение основ языка Python</description>
+	</item>
+    <item id="j">
+		<name>СУБД Oracle</name>
+		<teacher>Климанов В.А.</teacher>
+		<begin>2022-04-14</begin>
+		<end>2022-05-06</end>
+		<description>Изучение особенностей СУБД Oracle</description>
+ 	</item> 
+ <item id="k">
+		<name>Программирование на Java</name>
+		<teacher>Романова Асель</teacher>
+		<begin>2022-05-11</begin>
+		<end>2022-06-24</end>
+		<description>Изучение основ языка Java</description>
+ 	</item> 
+ <item id="l">
+ 	<name>Разработка Web-приложений на HTML5, JavaScript, CSS3</name>
+		<teacher>Ямщиков Денис Викторович</teacher>
+		<begin>2022-06-27</begin>
+		<end>2022-07-15</end>
+		<description>Изучение принципов создания программных компонентов на базе HTML5/CSS3/JavaScript</description>
+ 	</item> 
+ <item id="m">
+ <name>Программирование на С++</name>
+		<teacher>Осипов Никита Алексеевич</teacher>
+		<begin>2022-07-18</begin>
+		<end>2022-09-16</end>
+		<description>Изучение основ языка C++</description>
+ 	</item> 
+ <item id="n">
+		<name>Дипломное проектирование</name>
+		<teacher>руководители дипломных работ</teacher>
+		<begin>2022-09-17</begin>
+		<end>2022-10-18</end>
+		<description>Работа над дипломным проектом</description>
+ 	</item> 
+</TimeTable>

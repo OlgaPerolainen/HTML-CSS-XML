@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:/C:/Users/wwwol/Downloads/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9A%D1%83%D1%80%D1%81/HTML-XML/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/XML-Lab01/resume_complex.xsd">
+    <higherEducation>
+		<candidate id="a">
+			<name>Елена</name>
+			<lastname>Иванова</lastname>
+			<fathersname>Васильевна</fathersname>
+			<age>31</age>
+			<workplace>OOO "Проект"</workplace>
+			<post>менеджер</post>
+			<dateOfBirth>1990-08-10</dateOfBirth>
+			<education>высшее</education>
+			<address>СПб, Московский проспект, д.183</address>
+			<phone>123-45-67</phone>
+			<familystatus>замужем</familystatus>
+			<desiredSalary currency="RUR">50000</desiredSalary>
+		</candidate>
+
+		<candidate id="b">
+			<name>Виктор</name>
+			<lastname>Иванов</lastname>
+			<fathersname>Андреевич</fathersname>
+			<age>33</age>
+			<workplace>OOO "Проект"</workplace>
+			<post>экономист</post>
+			<dateOfBirth>1989-01-15</dateOfBirth>
+			<education>высшее</education>
+			<address>СПб, Московский проспект, д.183</address>
+			<phone>123-45-68</phone>
+			<familystatus>женат</familystatus>
+			<desiredSalary currency="RUR">60000</desiredSalary>
+		</candidate>																										
+	</higherEducation>
+    
+	<secondaryEducation>
+		<candidate id="c">
+			<name>Людмила</name>
+			<lastname>Сидорова</lastname>
+			<fathersname>Валентиновна</fathersname>
+			<age>39</age>
+			<workplace>OOO "Строй"</workplace>
+			<post>менеджер по продажам</post>
+			<dateOfBirth>1982-10-22</dateOfBirth>
+			<education>среднее</education>
+			<address>СПб, Ленинский проспект, д.109</address>
+			<phone>123-45-60</phone>
+			<familystatus>не замужем</familystatus>
+			<desiredSalary currency="RUR">40000</desiredSalary>
+		</candidate>
+	</secondaryEducation>
+</resume>
